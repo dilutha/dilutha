@@ -1,78 +1,118 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Dilutha Banner" width="1060"/>
+<!--last_refresh:2025-09-13--> <!-- Workflow marker - do not remove -->
+
+<!-- HEADER -->
+<div align="center">
+
+  <!-- Capsule Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Dilutha%20Weerasinghe&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BIS%20Undergraduate%20|%20Data%20Science%20Explorer&descAlignY=55&descSize=20" />
+
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Dilutha;Business+Information+Systems+Undergraduate;Data+Science+Graduate;AI+%26+ML+Enthusiast;Exploring+Web+%26+Cloud+Development" alt="Typing SVG"/>
+  </h1>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dilutha&style=flat-square&color=00E7FF" alt="Profile views"/>
+    <img src="https://img.shields.io/badge/Sri%20Lanka-00E7FF?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Status-Always%20Learning-22C55E?style=flat-square&logo=read-the-docs&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/github/followers/DiluthaFernando?style=flat-square&color=8B5CF6&logo=github&logoColor=white" alt="Followers"/>
+  </p>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="45"> About Me  
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Currently pursuing **BSc (Hons) Business Information Systems** @ USJ  
+- 🎓 Already graduated in **BSc (Hons) Data Science** @ Cardiff Met (ICBT Campus)  
+- 📊 Completed **Google Advanced Data Analytics Certificate**  
+- 💻 Passionate about **Data Science, Web Apps, and Cloud Tech**  
+- 🚀 Working on **University Projects & AI-based Tools**  
+- 🌱 Currently learning **C#, System Analysis, Finance, and RAG in ML**  
+- 🎯 Goal: Blend **Business + Technology** to create impactful solutions  
+
+---
+
+## ⚡ Tech Stack  
+
+<div align="center">
+
+### 🔹 Languages & Frameworks  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </p>
-<h2 align="center">Turning Data into Decisions | Developer | Data Enthusiast</h2>
 
-# 💫 About Me  
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
+### 🔹 Databases & Cloud  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
 
-👋 Hey there! I’m **Dilutha** – an undergraduate in **Business Information Systems** at the University of Sri Jayewardenepura, with a strong background in **Data Science**.  
+### 🔹 Tools & Platforms  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
 
-💡 I’m passionate about **building systems where data meets business**, turning numbers into insights and insights into action. Whether it’s **academic projects, coding challenges, or experimenting with new tech**, I love pushing boundaries and learning along the way.  
+### 🔹 Machine Learning & Data Science  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
+</p>
 
-🔭 **Currently Working On**  
-- 🏫 Academic projects in **systems analysis, database design, and web apps**  
-- 📈 A group project on **ML-based price forecasting & demand analysis**  
-- 💻 Personal C# console apps (linked lists, stacks, queues, and management systems)  
-
-🌱 **Currently Learning**  
-<img align="right" alt="Learning" width="200" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">  
-
-- ⚡ Advanced **C# programming** & **full-stack development**  
-- 📊 Data analysis & visualization with **Tableau | Python | SQL**  
-- 💰 Applying **data science to finance & economics**  
-
-🎯 **Interests**  
-Data-driven decision making | Operations management | Fintech | Business systems  
-
----
-
-## 🌐 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DiluthaWeerasingha)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DiluthaWeerasingha)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DiluthaWeerasingha)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diluthaweerasingha@gmail.com)  
+</div>
 
 ---
 
-# 💻 Tech Stack  
-<img align="right" alt="Tech" width="250" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">  
+## 📊 GitHub Stats  
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
-*(...and more!)*  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dilutha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>  
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=dilutha&theme=merko&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=dilutha&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilutha&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+## 🐍 Contribution Snake  
 
----
+<div align="center">
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=dilutha&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)  
+⚡ To enable the snake, you’ll need to set up a GitHub Action (it generates `snake.svg` daily).  
+Add this workflow inside `.github/workflows/snake.yml` in your repo:  
 
----
+```yaml
+name: Generate Snake
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
----
-
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=dilutha&limit=5&theme=merko&combine_all_yearly_contributions=true)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=dilutha&icon=1&color=2)](https://visitcount.itsvg.in)  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: dilutha
+          outputs: dist/snake.svg
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
