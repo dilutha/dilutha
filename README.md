@@ -87,12 +87,7 @@
 
 ## 🐍 Contribution Snake  
 <div align="center">
-
-
-![GitHub Snake Light](https://raw.githubusercontent.com/dilutha/dilutha/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/dilutha/dilutha/output/snake-dark.svg#gh-dark-mode-only)
-
-
-
+  <img src="https://raw.githubusercontent.com/dilutha/dilutha/output/snake.svg" alt="Contribution Snake"/>
 </div>
+
 
