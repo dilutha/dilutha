@@ -2,30 +2,43 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # ✅ allows pushing
+      contents: write
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Make dist folder
+        run: mkdir -p dist
+
+      - name: Generate Light Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dilutha
-          outputs: dist/snake.svg dist/snake-dark.svg
+          output: dist/snake.svg
+
+      - name: Generate Dark Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: dilutha
+          theme: dark
+          output: dist/snake-dark.svg
+
+      - name: Debug generated files
+        run: ls -l dist
 
       - name: Push Snake to output branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan output
+          git checkout output || git checkout -b output
           git --work-tree dist add --all
-          git --work-tree dist commit -m "Generate Snake"
-          git push origin HEAD:output --force
+          git --work-tree dist commit -m "Generate Snake" || echo "No changes to commit"
+          git push origin output --force
