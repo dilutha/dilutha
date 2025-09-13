@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=dilutha&style=flat-square&color=00E7FF" alt="Profile views"/>
     <img src="https://img.shields.io/badge/Sri%20Lanka-00E7FF?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Status-Always%20Learning-22C55E?style=flat-square&logo=read-the-docs&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/github/followers/DiluthaFernando?style=flat-square&color=8B5CF6&logo=github&logoColor=white" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/dilutha?style=flat-square&color=8B5CF6&logo=github&logoColor=white" alt="Followers"/>
   </p>
 </div>
 
@@ -85,9 +85,11 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🌟My Coding Footprint 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dilutha/dilutha/output/snake.svg" alt="Contribution Snake"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilutha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="500"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilutha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
 </div>
 
 
