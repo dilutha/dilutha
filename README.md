@@ -86,33 +86,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-
 <div align="center">
+  <img src="https://raw.githubusercontent.com/dilutha/dilutha/output/snake.svg" alt="Contribution Snake"/>
+</div>
 
-⚡ To enable the snake, you’ll need to set up a GitHub Action (it generates `snake.svg` daily).  
-Add this workflow inside `.github/workflows/snake.yml` in your repo:  
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: dilutha
-          outputs: dist/snake.svg
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
