@@ -83,13 +83,5 @@
   <img src="https://streak-stats.demolab.com?user=dilutha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>  
 
----
-
-## 🌟My Coding Footprint 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilutha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="500"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilutha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
-</div>
 
 
